@@ -1,0 +1,14 @@
+# Data folders
+data/raw/
+data/processed/*.pkl
+!data/processed/tfidf_vectorizer.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env
